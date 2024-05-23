@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TIC TAC TOE</string>
+    <string name="text">Enter\n Players Name</string>
+    <string name="text1">Welcome in \n TIC TAC TOE </string>
+</resources>
